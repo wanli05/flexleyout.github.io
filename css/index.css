@@ -325,7 +325,6 @@ nav {
 
 .footer div {
     flex: 1;
-    height: 54px;
     /* background-color: pink; */
     margin: 3px 4px;
     border-radius: 4px;
@@ -346,6 +345,6 @@ nav {
 .footer div img {
     width: 32px;
     height: 32px;
-    margin-top: 8px;
+    margin-top: 2px;
     background-size: 32px auto;
 }
